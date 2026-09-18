@@ -1,18 +1,18 @@
 # Site Settings
 lang: en
 
-title: US-RSE'TBD
-description: US-RSE Conference TBD
+title: US-RSE'27
+description: US-RSE Conference 2027
 
 url: "https://us-rse.org"
-baseurl: "/TBD"
+baseurl: "/usrse27"
 title-img: /assets/img/main_logo_transparent.png  # baseurl will be prepended
 twitter-img: /assets/img/main_logo_transparent.png  # url + baseurl will be prepended
 banner: /assets/img/main_logo_transparent.png
 icon: /assets/img/main_logo_transparent.png
 domain: https://us-rse.org
 
-email: contact@us-rse.org
+email: usrse27-conference@us-rse.org
 permalink: /:year-:month-:day-:title/
 
 favicon: /assets/img/favicon.ico

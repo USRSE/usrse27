@@ -1,4 +1,4 @@
-# Contributing to US-RSE Conference TBD Website
+# Contributing to US-RSE Conference 2027 Website
 
 If you are comfortable working with forks, branches, and pull requests, please
 follow the below guidance. If you are not, please reach out to the Outreach/Website
