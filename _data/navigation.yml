@@ -4,9 +4,20 @@
   link: program/
 - name: Attend
   link: attend/
-- name: Organization
-  link: organization/
+  dropdown:
+    - name: Register
+      link: attend/register/
+    - name: Travel
+      link: attend/travel/
+    - name: Things to Do
+      link: attend/things-to-do/
 - name: Sponsor
   link: sponsor/
 - name: About
   link: about/
+  dropdown:
+    - name: Important Dates
+      link: about/dates/
+    - name: Code of Conduct
+      link: about/code-of-conduct/
+

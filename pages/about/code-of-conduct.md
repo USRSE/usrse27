@@ -11,7 +11,7 @@ set_last_modified: true
 All conference participants are expected to abide by the Code of Conduct in all events and interactions related to the conference.  This includes evening events and continued
 interactions after the conference.
 
-**Reporting or Questions**: Please report problems or concerns to [coc@us-rse.org](mailto:coc@us-rse.org).  During the conference, you can also report problems or concerns to those wearing a "Code of Conduct Enforcer" button: Suzanne Prentice, J.C. Subida, and Hannah Cohoon.  You can also reach these people individually via a Direct Message on Slack.
+**Reporting or Questions**: Please report problems or concerns to [coc@us-rse.org](mailto:coc@us-rse.org).  During the conference, you can also report problems or concerns to those wearing a "Code of Conduct Enforcer" button. 
 
 To protect the safety of all attendees and participants, USRSE27 participants and those in conference spaces agree not to engage in harassment or abuse.
 Violations of this Code of Conduct may have consequences ranging from a verbal or written warning and up to removal from the conference or exclusion from conference spaces.
