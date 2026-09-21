@@ -33,6 +33,9 @@ This committee is responsible for planning and organizing a student-focused prog
 #### Conference Experience Committee
 This committee is responsible for facilitating a conference environment where everyone feels welcome. Exact specifics are up to you, but we'd like to see events or programs that encourage participants to build connections and feel comfortable. This may include working with logistics to organize a quiet room, game tables, dinner groups, intro sessions for first-time attendees, or anything else you think would improve the conference experience. Creativity welcome!
 
+#### Sponsorship Committee
+This committee is responsible for recruiting and communicating with conference sponsors. This includes sending contracts, gathering payments, managing sponsorship perks, and keeping track of communications and outreach. If you have great contacts in industry or great record-keeping and communication skills, you could be a big help to this committee.
+
 ### Contact
 
 Contact the organizers: [usrse27-conference@us-rse.org](mailto:usrse27-conference@us-rse.org)
