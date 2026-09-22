@@ -16,7 +16,7 @@ Hotel information will be added once hotels are confirmed. Please check back for
 
 
 - Detroit Metropolitan International Airport (DTW)
-  - The airport is approximately 25 miles from the University of Michigan campus, which is generally a 45-minute drive under standard driving conditions. Current travel guidelines suggest arriving at least 2 hours before your flight! Major hubs are Delta, Spirit, and US Air.
+  - The airport is approximately 25 miles from the University of Michigan campus, which is generally a 45-minute drive under standard driving conditions. Current travel guidelines suggest arriving at least 2 hours before your flight.
   - The [Michigan Flyer](https://www.michiganflyer.com/) bus is one way to get to and from DTW. Prepaid fare is $16 one way/$27 round trip. Tickets purchased at the coach are $3-$6 higher.
   - The [Ann Arbor Visitor's Bureau](https://www.annarbor.org/plan/getting-here-getting-around/) maintains a listing of additional airport shuttle options.
   - Uber and Lyft are available at DTW, and the ride to Ann Arbor is generally $40-$60 depending on traffic and time of day.
