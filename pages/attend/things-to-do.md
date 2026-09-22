@@ -21,6 +21,6 @@ A more complete list of campus attractions can be found on the [University of Mi
 
 ## Things to do around Ann Arbor
 If you want to venture off campus into the larger Ann Arbor area, there are plenty of things to do! Take a walk to [Kerrytown](https://kerrytown.com/) to check out the unique shops and famous Zingerman's Deli (and if you're an early riser you can check out the [Farmers Market](https://www.a2gov.org/parks-and-recreation/parks-and-places/ann-arbor-farmers-market/) Wednesday before the conference!). 
-Main Street is also a great area for shopping, dining, and catching a show at [The Ark](https://theark.org/), a famous music venue. Find a longer list of things to do in Ann Arbor on the [Ann Arbor Visitors Bureau site](https://www.annarbor.org/).
+Main Street is also a great area for shopping, dining, and catching a show at [The Ark](https://theark.org/), a famous music venue. Find a longer list of things to do in Ann Arbor on the [Destination Ann Arbor website](https://www.annarbor.org/).
 
 If you're spending some extra time here, the Detroit Metro area is about 45 minutes away by car or bus, and there are plenty of things to do in Detroit, including visiting the [Detroit Institute of Arts](https://www.dia.org/), the [Detroit Historical Museum](https://detroithistorical.org/), and the [Motown Museum](https://www.motownmuseum.org/).
