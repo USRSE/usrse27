@@ -58,7 +58,7 @@ Configuration file: /srv/jekyll/_config.yml
       Generating... 
                     done in 1.616 seconds.
  Auto-regeneration: enabled for '/srv/jekyll'
-    Server address: http://0.0.0.0:4000/TBD/
+    Server address: http://0.0.0.0:4000/usrse27/
   Server running... press ctrl-c to stop.
 ```
 
