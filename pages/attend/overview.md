@@ -9,7 +9,7 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-<img src = "{{ site.baseurl }}//assets/img/prev-conf/USRSEConference2025_group.jpg">
+<img src = "{{ site.baseurl }}//assets/img/MichiganUnionCropped.png" alt = "Michigan Union" width = "100%">
 
 ## Venue Information
 
