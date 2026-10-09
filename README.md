@@ -1,13 +1,3 @@
-# USING THIS TEMPLATE
-
-1. Please search for all `TBD`s and replace them as appropriate.
-2. Update other relevant information as appropriate.
-3. Ensure that the repository is public, then activate GitHub Pages by going to **Settings** > **Pages** > **Deploy from branch** > `main`. Also click the radio button near the bottom for "Enforce HTTPS".
-4. Set up CircleCI by going to https://app.circleci.com/projects/project-dashboard/github/USRSE/, click "Set up project" on your repository (e.g., `usrse25`), select the existing `config.yml` file from `main`, click "Set up project", click "Project settings" > "Advanced Settings", and toggle the "Build forked pull requests" option. CircleCI previews will now be generated for all Pull Requests. NOTE: You will need to have access to the USRSE organization CircleCI. If you already have modification access to the USRSE GitHub organization, you should be able to log in with the same GitHub credentials in CircleCI.
-5. Remove this section from the README.
-
-------
-
 # The US-RSE Association Conference 2027 (US-RSE'27)
 
 This repo is website landing page for the [US-RSE Association Conference 2027](https://us-rse.org/usrse27/).
