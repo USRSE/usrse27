@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Announcing USRSE'27!
-date: 2026-09-21
+date: 2026-10-21
 tags: usrse27
 ---
 
