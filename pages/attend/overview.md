@@ -9,13 +9,19 @@ menubar_toc: true
 set_last_modified: true
 ---
 
-<img src = "{{ site.baseurl }}//assets/img/MichiganUnionCropped.png" alt = "Michigan Union" width = "100%">
+<img src = "{{ site.baseurl }}/assets/img/MichiganUnionCropped.png" alt = "Michigan Union" width = "100%">
 
 ## Venue Information
 
 [University of Michigan Union](https://uunions.umich.edu/union/)
 
 October 25-27, 2027
+
+USRSE'27 will be hosted
+by the University of Michigan with support from LSA Technology Services.
+
+Sessions, tutorials, posters and activities are all under one roof on Central Campus, and the Michigan
+Union is walkable to hotels, restaurants, shopping and museums.
 
 ## Travel Planning
 

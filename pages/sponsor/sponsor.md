@@ -47,6 +47,16 @@ We expect:
 
 > **NOTE**: If you are interested in a joint sponsorship with another institution, please [contact us](mailto:sponsor-contact@us-rse.org) to discuss.
 
+Alongside the levels below, we also welcome sponsorship directed at specific parts of the
+conference:
+
+- **Student travel support** &mdash; help early-career researchers and students attend who otherwise
+  could not. This is one of the highest-impact ways to sponsor USRSE'27.
+- **Named events** &mdash; put your organization's name on a reception, a break, a lunch, or another
+  conference event.
+
+To discuss either option, [contact us](mailto:sponsor-contact@us-rse.org).
+
 <table class="tg">
 <thead>
   <tr>

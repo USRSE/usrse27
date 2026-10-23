@@ -1,0 +1,14 @@
+{%- assign video_id = include.youtube_id | default: site.announcement.youtube_id -%}
+{%- assign poster = include.poster | default: '/assets/img/announcement/video-poster.webp' -%}
+{%- assign video_title = include.title | default: "USRSE'27 announcement video" -%}
+<div class="usrse-video" x-data="{ playing: false }">
+<template x-if="!playing">
+<button type="button" class="usrse-video-poster" @click="playing = true" aria-label="Play the {{ video_title }}">
+<img src="{{ site.baseurl }}{{ poster }}" alt="Pixel-art illustration of the Michigan Union with a banner reading USRSE'27 Welcome, surrounded by a crowd of attendees" width="1280" height="720">
+<span class="usrse-video-play" aria-hidden="true"></span>
+</button>
+</template>
+<template x-if="playing">
+<iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}?autoplay=1&amp;rel=0" title="{{ video_title }}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</template>
+</div>

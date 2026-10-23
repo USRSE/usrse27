@@ -13,7 +13,7 @@ set_last_modified: true
 - Pengyin Shan, University of Illinois Urbana-Champaign
 
 ### Committee Chairs
-We're looking for committee chairs for the following committees (two each). If you're interested, please fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfsCNJCj56OQ45AJBRhQprTUjUtYJVJn5W9eOKbGbdUTfIXQw/viewform?usp=header).
+We're looking for committee chairs for the following committees (two each). Chairs will be selected by the start of 2027. If you're interested, please fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfsCNJCj56OQ45AJBRhQprTUjUtYJVJn5W9eOKbGbdUTfIXQw/viewform?usp=header).
 
 #### Communications Committee
 This committee is responsible for the extensive communication requirements around the conference. This includes sending emails to potential participants and sponsors, sharing conference news with the email group, posting on social media channels, and updating the conference web page. It may also include design work for printed or electronic materials.
