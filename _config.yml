@@ -23,6 +23,10 @@ paginate_path: "/news/page:num/"
 
 excerpt_length: 200
 
+announcement:
+  youtube_id: YIa0Y5Nq544
+  slides_pdf: /assets/file/usrse27-announcement.pdf
+
 # social media
 twitter: us_rse
 github_org: USRSE
