@@ -24,7 +24,6 @@ Hotel information will be added once hotels are confirmed. Please check back for
 - Amtrak Train Service
   - The Amtrak station in Ann Arbor is located at 325 Depot Street, Ann Arbor, MI 48104. The station is approximately 1 mile from the Michigan Union. Taxi or rideshare are available for transportation to the campus. More information can be found on the [Amtrak site](https://www.amtrak.com/stations/arb).
 
-- Intercity Bus Service
   - Intercity buses stop in downtown Ann Arbor, within walking distance of the Michigan Union. [Destination Ann Arbor](https://www.annarbor.org/plan/getting-here-getting-around/) maintains current carrier and stop information.
     
 [Destination Ann Arbor](https://www.annarbor.org/meetings/transportation/) provides additional information on travel options to Ann Arbor, including flights, trains, and buses.
