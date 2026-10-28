@@ -34,7 +34,7 @@ Submissions open in mid-February 2027, and most tracks are due in mid-April 2027
 are due in late June 2027. See the [important dates]({{ site.baseurl }}/about/dates/) page for the
 full schedule. Submission deadlines are tentative and subject to change.
 
-## Review for us
+## Volunteer as a reviewer
 
 We will issue a call for reviewers alongside the call for submissions in mid-February 2027.
 Reviewing is one of the most direct ways to shape the program, and we welcome reviewers at every
