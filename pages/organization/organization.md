@@ -10,7 +10,7 @@ set_last_modified: true
 ### General Chairs
 
 - Abbey Roelofs, University of Michigan
-- Pengyin Shan, University of Illinois Urbana-Champaign (UIUC)
+- Pengyin Shan, National Center for Supercomputing Applications (UIUC)
 
 ### Committees
 
@@ -25,6 +25,7 @@ This committee is responsible for the implementation of the overall technical pr
 #### Communications Committee
 Chairs:
 - Kate Arneson, National Center for Supercomputing Applications (UIUC)
+- (TBD)
 
 This committee is responsible for the extensive communication requirements around the conference. This includes sending emails to potential participants and sponsors, sharing conference news with the email group, posting on social media channels, and updating the conference web page. 
 
